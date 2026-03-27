@@ -50,7 +50,7 @@
 
 **Expected result:** появляется alert "Please fill out Username and Password."
 **Priority:** High
-**Actual result:** ⚠️ см. BUG-004
+**Actual result:** см. BUG-004
 
 ---
 
